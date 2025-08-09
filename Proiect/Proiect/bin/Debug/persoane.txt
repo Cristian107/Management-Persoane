@@ -1,0 +1,7 @@
+Persoana cu id-ul 12, numita Marcel are sexul M, adresa de email MarcelOmul12@gmail.com are jobul de Id-ul 12 este jobul de Programator si are experienta de J si a urmat cursurile: Cursul PHP a oferit diploma: False
+Persoana cu id-ul 12, numita Marcel Popescu are sexul M, adresa de email MarcelOmul12@gmail.com are jobul de  este jobul de Programator si are experienta de J si a urmat cursurile: Cursul SQL a oferit diploma: False
+Persoana cu id-ul 12, numita Marcel Popescu are sexul M, adresa de email MarcelOmul12@gmail.com are jobul de Programator cu experienta de J si a urmat cursurile: Cursul C# care a oferit diploma: False
+Persoana cu id-ul 13, numita Maricica are sexul F, adresa de email Maricica42@gmail.com are jobul de Contabila cu experienta de J si a urmat cursul de: Cursul Linux care a oferit diploma: False
+Persoana cu id-ul 11, numita Daniel are sexul M, adresa de email Daniel@yahoo.com are jobul de Programator cu experienta de J si a urmat cursul de: Cursul PHP care a oferit diploma: False
+Persoana cu id-ul 90, numita Eu are sexul M, adresa de email banana@gmail.com are jobul de Programator cu experienta de J si a urmat cursul de: Cursul C# care a oferit diploma: True
+Persoana cu id-ul 3543546, numita Boncan are sexul M, adresa de email idk@yahoo.ro are jobul de baschet cu experienta de J si a urmat cursul de: Cursul SQL care a oferit diploma: False
